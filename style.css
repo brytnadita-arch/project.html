@@ -1,0 +1,19 @@
+.kartu{
+    box-sizing: border-box;
+    width: 200px;
+    padding: 20px;
+    border: 10px solid #060060;
+    border-radius: 10px;
+    margin: auto;
+    background-color: #a6b9ff;
+    text-align: center;
+    color: #050045;
+    box-shadow: 0 4px 15px #020237;
+}
+.kartu h2{
+    margin-bottom: 10px;
+}
+.kartu p{
+    font-size: 18px;
+    font-weight: bold;
+}
